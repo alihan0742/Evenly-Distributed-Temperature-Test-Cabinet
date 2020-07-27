@@ -1,0 +1,28 @@
+C:\Users\Faruk\Google Drive\Professional\OPTOEL\Projects\Masterdefence - Fırın\Code2\Chamber_MD\bin\Debug\Chamber_MD.exe.config
+C:\Users\Faruk\Google Drive\Professional\OPTOEL\Projects\Masterdefence - Fırın\Code2\Chamber_MD\bin\Debug\Chamber_MD.exe
+C:\Users\Faruk\Google Drive\Professional\OPTOEL\Projects\Masterdefence - Fırın\Code2\Chamber_MD\bin\Debug\Chamber_MD.pdb
+C:\Users\Faruk\Google Drive\Professional\OPTOEL\Projects\Masterdefence - Fırın\Code2\Chamber_MD\obj\Debug\Chamber_MD.csprojAssemblyReference.cache
+C:\Users\Faruk\Google Drive\Professional\OPTOEL\Projects\Masterdefence - Fırın\Code2\Chamber_MD\obj\Debug\Chamber_MD.Properties.Resources.resources
+C:\Users\Faruk\Google Drive\Professional\OPTOEL\Projects\Masterdefence - Fırın\Code2\Chamber_MD\obj\Debug\Chamber_MD.csproj.GenerateResource.cache
+C:\Users\Faruk\Google Drive\Professional\OPTOEL\Projects\Masterdefence - Fırın\Code2\Chamber_MD\obj\Debug\Chamber_MD.exe
+C:\Users\Faruk\Google Drive\Professional\OPTOEL\Projects\Masterdefence - Fırın\Code2\Chamber_MD\obj\Debug\Chamber_MD.pdb
+C:\Users\Faruk\Google Drive\Professional\OPTOEL\Projects\Masterdefence - Fırın\Code2\Chamber_MD\obj\Debug\Chamber_MD.Chamber_MD.resources
+C:\Users\berke\Desktop\müh\PROJELER\MD_chamber\ChamberControl_MD_Backup_2020-03-30\Chamber_MD_2020-03-30\Chamber_MD\bin\Debug\Chamber_MD.exe.config
+C:\Users\berke\Desktop\müh\PROJELER\MD_chamber\ChamberControl_MD_Backup_2020-03-30\Chamber_MD_2020-03-30\Chamber_MD\bin\Debug\Chamber_MD.exe
+C:\Users\berke\Desktop\müh\PROJELER\MD_chamber\ChamberControl_MD_Backup_2020-03-30\Chamber_MD_2020-03-30\Chamber_MD\bin\Debug\Chamber_MD.pdb
+C:\Users\berke\Desktop\müh\PROJELER\MD_chamber\ChamberControl_MD_Backup_2020-03-30\Chamber_MD_2020-03-30\Chamber_MD\obj\Debug\Chamber_MD.csprojAssemblyReference.cache
+C:\Users\berke\Desktop\müh\PROJELER\MD_chamber\ChamberControl_MD_Backup_2020-03-30\Chamber_MD_2020-03-30\Chamber_MD\obj\Debug\Chamber_MD.Chamber_MD.resources
+C:\Users\berke\Desktop\müh\PROJELER\MD_chamber\ChamberControl_MD_Backup_2020-03-30\Chamber_MD_2020-03-30\Chamber_MD\obj\Debug\Chamber_MD.Properties.Resources.resources
+C:\Users\berke\Desktop\müh\PROJELER\MD_chamber\ChamberControl_MD_Backup_2020-03-30\Chamber_MD_2020-03-30\Chamber_MD\obj\Debug\Chamber_MD.csproj.GenerateResource.cache
+C:\Users\berke\Desktop\müh\PROJELER\MD_chamber\ChamberControl_MD_Backup_2020-03-30\Chamber_MD_2020-03-30\Chamber_MD\obj\Debug\Chamber_MD.csproj.CoreCompileInputs.cache
+C:\Users\berke\Desktop\müh\PROJELER\MD_chamber\ChamberControl_MD_Backup_2020-03-30\Chamber_MD_2020-03-30\Chamber_MD\obj\Debug\Chamber_MD.exe
+C:\Users\berke\Desktop\müh\PROJELER\MD_chamber\ChamberControl_MD_Backup_2020-03-30\Chamber_MD_2020-03-30\Chamber_MD\obj\Debug\Chamber_MD.pdb
+C:\Users\aliha\OneDrive\Masaüstü\Chamber_MD_2020-03-30\Chamber_MD\bin\Debug\Chamber_MD.exe.config
+C:\Users\aliha\OneDrive\Masaüstü\Chamber_MD_2020-03-30\Chamber_MD\bin\Debug\Chamber_MD.exe
+C:\Users\aliha\OneDrive\Masaüstü\Chamber_MD_2020-03-30\Chamber_MD\bin\Debug\Chamber_MD.pdb
+C:\Users\aliha\OneDrive\Masaüstü\Chamber_MD_2020-03-30\Chamber_MD\obj\Debug\Chamber_MD.csprojAssemblyReference.cache
+C:\Users\aliha\OneDrive\Masaüstü\Chamber_MD_2020-03-30\Chamber_MD\obj\Debug\Chamber_MD.Chamber_MD.resources
+C:\Users\aliha\OneDrive\Masaüstü\Chamber_MD_2020-03-30\Chamber_MD\obj\Debug\Chamber_MD.Properties.Resources.resources
+C:\Users\aliha\OneDrive\Masaüstü\Chamber_MD_2020-03-30\Chamber_MD\obj\Debug\Chamber_MD.csproj.GenerateResource.cache
+C:\Users\aliha\OneDrive\Masaüstü\Chamber_MD_2020-03-30\Chamber_MD\obj\Debug\Chamber_MD.exe
+C:\Users\aliha\OneDrive\Masaüstü\Chamber_MD_2020-03-30\Chamber_MD\obj\Debug\Chamber_MD.pdb
